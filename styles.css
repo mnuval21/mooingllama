@@ -142,8 +142,9 @@ code {
   margin-top: 64px;
 }
 
-.footer {
+footer {
   margin-top: 224px;
+  color: rgb(209, 206, 206);
 }
 
 .footer img {
